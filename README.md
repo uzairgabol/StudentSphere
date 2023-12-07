@@ -49,6 +49,6 @@ StudentSphere is a Flutter-based mobile application designed for a university da
 
 ## Additional Resources
 
-- YouTube Demo: https://youtu.be/5HDy7xPLyko
+- YouTube Demo: https://youtu.be/5HDy7xPLyko https://youtu.be/bi3CJ3znavc
 
 **Thank you for exploring StudentSphere!**
