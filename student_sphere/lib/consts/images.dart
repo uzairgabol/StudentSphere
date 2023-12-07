@@ -1,0 +1,1 @@
+const imgLogo = "assets/images/student.png";
