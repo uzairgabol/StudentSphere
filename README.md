@@ -1,17 +1,22 @@
 # StudentSphere - University Database Project
 
 ## Overview
-StudentSphere is a Flutter-based mobile application designed for a university database project. The app facilitates efficient student management, providing features for both teachers and students. Additionally, a new admin feature has been added for comprehensive control over student enrollment, courses, and teacher management.
+
+StudentSphere is a Flutter-based mobile application designed for a university database project (A Student Management System). The app facilitates efficient student management, providing features for both teachers and students. Additionally, a new admin feature has been added for comprehensive control over student enrollment, courses, and teacher management.
 
 ## Features
+
 ### For Teachers:
+
 - **Edit Student Data:** Teachers can update student marks and attendance records.
 
 ### For Students:
+
 - **View Marks and Attendance:** Access to personal academic records for better tracking.
 - **Alumni Sessions Booking:** Schedule sessions with alumni for academic guidance.
 
 ### For Admin:
+
 - **Add/Remove Students:** Comprehensive student management for enrollment.
 - **Add/Remove Courses:** Control over the courses offered.
 - **Add/Remove Teachers:** Manage the teaching staff effectively.
@@ -19,27 +24,31 @@ StudentSphere is a Flutter-based mobile application designed for a university da
 - **Teacher Management:** Modify the teaching staff as needed.
 
 ## Getting Started
+
 1. **Download StudentSphere:** Clone or download the StudentSphere Flutter app.
 
 2. **Database Setup:**
-    - Import the provided `.sql` file into your MySQL database using a tool like MySQL Workbench or command line:
+
+   - Import the provided `.sql` file into your MySQL database using a tool like MySQL Workbench or command line:
 
 3. **API Setup:**
-    - Locate the `api` folder and move it into your `htdocs` directory (if using XAMPP).
-    - Ensure XAMPP is running with Apache and connected to MySQL.
+
+   - Locate the `api` folder and move it into your `htdocs` directory (if using XAMPP).
+   - Ensure XAMPP is running with Apache and connected to MySQL.
 
 4. **Configure Flutter App:**
-    - Open the Flutter app and find the login page.
-    - Below the IP address section, enter your IPv4 address (obtainable via CMD > ipconfig).
-    
+   - Open the Flutter app and find the login page.
+   - Below the IP address section, enter your IPv4 address (obtainable via CMD > ipconfig).
 5. **Run the App:**
-    - Start the Flutter app, and you're ready to go!
+   - Start the Flutter app, and you're ready to go!
 
 ## Note
+
 - This project was created for educational purposes and may require adjustments for production use.
 - For any questions or feedback, feel free to contact me.
 
 ## Additional Resources
-- YouTube Demo: 
+
+- YouTube Demo: https://youtu.be/5HDy7xPLyko
 
 **Thank you for exploring StudentSphere!**
