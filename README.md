@@ -6,7 +6,6 @@ StudentSphere is a Flutter-based mobile application designed for a university da
 ## Features
 ### For Teachers:
 - **Edit Student Data:** Teachers can update student marks and attendance records.
-- **Alumni Sessions Booking:** Students can book sessions with alumni for academic consulting.
 
 ### For Students:
 - **View Marks and Attendance:** Access to personal academic records for better tracking.
@@ -38,9 +37,9 @@ StudentSphere is a Flutter-based mobile application designed for a university da
 
 ## Note
 - This project was created for educational purposes and may require adjustments for production use.
-- For any questions or feedback, feel free to contact the project owner.
+- For any questions or feedback, feel free to contact me.
 
 ## Additional Resources
-- YouTube Demo: [Insert YouTube Link Here]
+- YouTube Demo: 
 
 **Thank you for exploring StudentSphere!**
